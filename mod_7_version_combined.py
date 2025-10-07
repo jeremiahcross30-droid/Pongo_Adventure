@@ -1,5 +1,4 @@
 # Pongo's City Adventure - Combined Room and Item Dictionary Version
-# Updated based on instructor feedback to merge items and rooms into a single dictionary
 
 rooms = {
     "The Park": {
